@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(30, 30, 30);
+}
+
+header{
+    text-align: center;
+    height: 50px;
+    background-color: rgb(20, 20, 20);
+    color:cornflowerblue;
+    border: 2px double dodgerblue;
+    margin: 0px 0px 0px 0px;
+    font-size: 15px;
+    font-weight: 750;
+}
+
+ol{
+    list-style-type: lower-alpha;
+    color: saddlebrown;
+}
+
+li{
+    color: #E0E0E0;
+    line-height: 150%;
+}
+
+h3{
+    color: coral;
+}
+
+footer{
+    position: fixed;
+    bottom: 5px;
+    left: 10px;
+    color: rosybrown;
+}
+
+p{
+    color: #E0E0E0;
+}
+
+#bar{
+    text-decoration: overline;
+}
+
+main{
+    padding-bottom: 20px;
+}
+
+span{
+    color: #e0e0e0;
+}
